@@ -1,0 +1,7 @@
+body > div.fc-ab-root {
+  display: none !important;
+}
+
+body > iframe#game {
+  width: 100vw !important;
+}
